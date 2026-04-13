@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>BEAM Campus — Concept 2: Actor Stack</title>
+  <desc>Three red horizontal bars of varying widths. Evokes parallel actors, message passing, the BEAM architecture's concurrent processes. Minimalist.</desc>
+
+  <!-- Three red horizontal bars -->
+  <!-- Bar 1 (top) -->
+  <rect x="48" y="72" width="160" height="22" fill="#D41920"/>
+  <!-- Bar 2 (middle, shorter) -->
+  <rect x="48" y="118" width="112" height="22" fill="#D41920"/>
+  <!-- Bar 3 (bottom, longest) -->
+  <rect x="48" y="164" width="184" height="22" fill="#D41920"/>
+</svg>

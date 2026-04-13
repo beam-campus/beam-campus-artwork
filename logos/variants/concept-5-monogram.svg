@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>BEAM Campus — Concept 5: Interlocked BC Monogram</title>
+  <desc>Red B interlocked with black C. Grid-based geometric construction, no curves. Distinctively BEAM Campus.</desc>
+
+  <!-- Red B (left) -->
+  <!-- Spine -->
+  <rect x="52" y="64" width="22" height="128" fill="#D41920"/>
+  <!-- Top bar -->
+  <rect x="74" y="64" width="68" height="22" fill="#D41920"/>
+  <!-- Top-right stem -->
+  <rect x="120" y="86" width="22" height="30" fill="#D41920"/>
+  <!-- Middle bar -->
+  <rect x="74" y="116" width="68" height="22" fill="#D41920"/>
+  <!-- Bottom-right stem -->
+  <rect x="120" y="138" width="22" height="32" fill="#D41920"/>
+  <!-- Bottom bar -->
+  <rect x="74" y="170" width="68" height="22" fill="#D41920"/>
+
+  <!-- Black C (right), slightly overlapping -->
+  <!-- Top bar -->
+  <rect x="130" y="64" width="74" height="22" fill="#000000"/>
+  <!-- Spine -->
+  <rect x="130" y="86" width="22" height="84" fill="#000000"/>
+  <!-- Bottom bar -->
+  <rect x="130" y="170" width="74" height="22" fill="#000000"/>
+
+  <!-- Re-draw the overlapping bits of B in red to preserve legibility at intersection -->
+  <rect x="130" y="116" width="12" height="22" fill="#D41920"/>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 340" width="1400" height="340">
+  <title>BEAM Campus Logo Concepts — Contact Sheet</title>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1400" height="340" fill="#FAFAFA"/>
+
+  <!-- Concept 1: Campus Square -->
+  <g transform="translate(20, 20)">
+    <rect x="0" y="0" width="256" height="256" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="1"/>
+    <g transform="translate(0, 0)">
+      <rect x="28" y="28" width="200" height="200" fill="#D41920"/>
+      <rect x="28" y="28" width="200" height="200" fill="none" stroke="#000000" stroke-width="2"/>
+      <rect x="76" y="68" width="24" height="120" fill="#FFFFFF"/>
+      <rect x="100" y="68" width="80" height="20" fill="#FFFFFF"/>
+      <rect x="160" y="88" width="20" height="30" fill="#FFFFFF"/>
+      <rect x="100" y="118" width="80" height="20" fill="#FFFFFF"/>
+      <rect x="160" y="138" width="20" height="30" fill="#FFFFFF"/>
+      <rect x="100" y="168" width="80" height="20" fill="#FFFFFF"/>
+    </g>
+    <text x="128" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#111">Concept 1</text>
+    <text x="128" y="318" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#666">Campus Square</text>
+  </g>
+
+  <!-- Concept 2: Actor Stack -->
+  <g transform="translate(296, 20)">
+    <rect x="0" y="0" width="256" height="256" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="1"/>
+    <rect x="48" y="72" width="160" height="22" fill="#D41920"/>
+    <rect x="48" y="118" width="112" height="22" fill="#D41920"/>
+    <rect x="48" y="164" width="184" height="22" fill="#D41920"/>
+    <text x="128" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#111">Concept 2</text>
+    <text x="128" y="318" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#666">Actor Stack</text>
+  </g>
+
+  <!-- Concept 3: Academic Seal -->
+  <g transform="translate(572, 20)">
+    <rect x="0" y="0" width="256" height="256" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="1"/>
+    <circle cx="128" cy="128" r="100" fill="none" stroke="#000000" stroke-width="3"/>
+    <circle cx="128" cy="128" r="88" fill="#D41920"/>
+    <circle cx="128" cy="128" r="88" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="128" cy="128" r="80" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+    <rect x="80" y="88" width="14" height="80" fill="#FFFFFF"/>
+    <rect x="94" y="88" width="34" height="13" fill="#FFFFFF"/>
+    <rect x="115" y="101" width="13" height="20" fill="#FFFFFF"/>
+    <rect x="94" y="121" width="34" height="13" fill="#FFFFFF"/>
+    <rect x="115" y="134" width="13" height="21" fill="#FFFFFF"/>
+    <rect x="94" y="155" width="34" height="13" fill="#FFFFFF"/>
+    <rect x="138" y="88" width="38" height="13" fill="#FFFFFF"/>
+    <rect x="138" y="88" width="13" height="80" fill="#FFFFFF"/>
+    <rect x="138" y="155" width="38" height="13" fill="#FFFFFF"/>
+    <text x="128" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#111">Concept 3</text>
+    <text x="128" y="318" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#666">Academic Seal</text>
+  </g>
+
+  <!-- Concept 4: The Beam -->
+  <g transform="translate(848, 20)">
+    <rect x="0" y="0" width="256" height="256" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="1"/>
+    <rect x="0" y="0" width="256" height="256" fill="#FFFFFF"/>
+    <polygon points="40,216 72,216 216,40 184,40" fill="#D41920"/>
+    <polygon points="80,216 84,216 228,40 224,40" fill="#000000"/>
+    <text x="128" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#111">Concept 4</text>
+    <text x="128" y="318" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#666">The Beam</text>
+  </g>
+
+  <!-- Concept 5: Interlocked Monogram -->
+  <g transform="translate(1124, 20)">
+    <rect x="0" y="0" width="256" height="256" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="1"/>
+    <rect x="52" y="64" width="22" height="128" fill="#D41920"/>
+    <rect x="74" y="64" width="68" height="22" fill="#D41920"/>
+    <rect x="120" y="86" width="22" height="30" fill="#D41920"/>
+    <rect x="74" y="116" width="68" height="22" fill="#D41920"/>
+    <rect x="120" y="138" width="22" height="32" fill="#D41920"/>
+    <rect x="74" y="170" width="68" height="22" fill="#D41920"/>
+    <rect x="130" y="64" width="74" height="22" fill="#000000"/>
+    <rect x="130" y="86" width="22" height="84" fill="#000000"/>
+    <rect x="130" y="170" width="74" height="22" fill="#000000"/>
+    <rect x="130" y="116" width="12" height="22" fill="#D41920"/>
+    <text x="128" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#111">Concept 5</text>
+    <text x="128" y="318" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#666">Interlocked BC</text>
+  </g>
+</svg>

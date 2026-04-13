@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>BEAM Campus — Concept 4: The Beam</title>
+  <desc>A bold red diagonal beam cutting across the canvas. Literal beam-of-light reference plus dynamic movement. Clean, striking, works at any size.</desc>
+
+  <!-- White background -->
+  <rect x="0" y="0" width="256" height="256" fill="#FFFFFF"/>
+
+  <!-- Diagonal red beam, bottom-left to top-right -->
+  <polygon points="40,216 72,216 216,40 184,40" fill="#D41920"/>
+
+  <!-- Secondary thin black parallel beam -->
+  <polygon points="80,216 84,216 228,40 224,40" fill="#000000"/>
+</svg>
