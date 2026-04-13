@@ -1,0 +1,31 @@
+# OS / editor detritus
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+*.orig
+
+# Temp renders / local exports
+.tmp/
+tmp/
+*.cache
+
+# Affinity / Sketch autosave
+*.afdesign.autosave
+*.sketch.bak
+
+# Inkscape lock files
+*.svg.lock
+
+# macOS resource forks
+._*
+
+# Windows recycle
+$RECYCLE.BIN/
+desktop.ini
+
+# Large source archives to be added explicitly via git lfs
+# (no auto-ignore; see brand/style-guide/large-files.md)
